@@ -1,0 +1,21 @@
+titulo: Resetar senha de colaborador
+content: Este procedimento descreve como um colaborador pode solicitar a redefinição de sua própria senha.
+
+Restrições:
+- O colaborador deve ser o titular da conta.
+- O acesso à ferramenta de autosserviço de senhas deve estar habilitado.
+- Disponível de segunda a sexta.
+- Caso não consiga concluir sozinho, o suporte pode auxiliar em horário comercial (08:00–18:00).
+
+Passo a passo:
+1. Acesse o portal de autosserviço (senha.empresa.com).
+2. Clique em “Esqueci minha senha”.
+3. Preencha as informações solicitadas (CPF, e-mail ou matrícula).
+4. Escolha o método de verificação: SMS, e-mail alternativo ou token autenticador.
+5. Após validação, defina uma nova senha conforme as políticas da empresa.
+6. Aguarde até 15 minutos para propagação no ambiente.
+
+Observações:
+- Caso o portal não esteja acessível, abra um chamado no Service Desk.
+- Em nenhuma hipótese a senha deve ser fornecida por terceiros.
+---
